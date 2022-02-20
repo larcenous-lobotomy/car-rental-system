@@ -1,0 +1,1 @@
+void same_mfg();
