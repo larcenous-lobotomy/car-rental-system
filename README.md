@@ -4,4 +4,4 @@ The program provides a menu driven approach to implement a car rental system. A 
 
 # Instructions
 
-Use "make all" to compile the project and "./main" to run. "make clean" can be used to remove the .o files.
+Use `make all` to compile the project and `./main` to run. `make clean` can be used to remove the .o files.
